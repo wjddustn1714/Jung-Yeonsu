@@ -5,7 +5,7 @@
 ## Overview
 
 ### 📄 Research
-- 텍스트 마이닝 기반 교육인증 미션·비전·핵심 키워드 분석 [논문](
+- 텍스트 마이닝 기반 교육인증 미션·비전·핵심 키워드 분석 [논문](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/textmining_education.pdf)
 - 진행 중: 텍스트 마이닝 기반 데이터 병원 미션·비전 분석 [요약]
 - 진행 중: 대학생의 건강 종단데이터 구축 모델 개발 및 정책방향 연구 [요약]
 
