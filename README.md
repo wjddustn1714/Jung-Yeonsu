@@ -14,5 +14,6 @@
 - 흉부 X-ray 기반 폐렴 vs 정상 이진 분류 CNN 모델 구축
 - HL7 FHIR 기반 유방암 수술 후 관리 모바일 앱 기획
 https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/HL7%20FHIR유방암%20환자%20수술%20후%20케어.pptx
+
 ## Contact
 wjddustn1714@naver.com
