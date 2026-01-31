@@ -5,7 +5,7 @@
 ## Overview
 
 ### 📄 Research
-- 텍스트 마이닝 기반 교육인증 미션·비전·핵심 키워드 분석 [논문]
+- 텍스트 마이닝 기반 교육인증 미션·비전·핵심 키워드 분석 [논문](
 - 진행 중: 텍스트 마이닝 기반 데이터 병원 미션·비전 분석 [요약]
 - 진행 중: 대학생의 건강 종단데이터 구축 모델 개발 및 정책방향 연구 [요약]
 
@@ -15,7 +15,7 @@
 - 국민건강영양조사 기반 치매 고위험군 로지스틱 회귀 분석 [보고서](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/Dementia_risk_logistic.pdf)
 - 가상의 의료보험 데이터를 활용한 보험료 예측 회귀 분석 [코드](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/Insurance_Regression.ipynb)
 - 흉부 X-ray 기반 폐렴 vs 정상 이진 분류 CNN 모델 구축 [코드](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/Chest_x-ray_CNN.ipynb)
-- HL7 FHIR 기반 유방암 수술 후 관리 모바일 앱 기획 [피피티](
+- HL7 FHIR 기반 유방암 수술 후 관리 모바일 앱 기획 [피피티](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/HL7_FHIR_App_proposal.pptx)
 
 
 ## Contact
