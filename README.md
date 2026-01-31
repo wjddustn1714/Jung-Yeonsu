@@ -1,4 +1,4 @@
-# Jung-Yeonsu
+# Healthcare Portfolio | Jung-Yeonsu
 
 정연수 | 보건의료정보관리 · 정밀의료융합 전공
 
