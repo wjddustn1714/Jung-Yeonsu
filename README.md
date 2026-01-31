@@ -6,13 +6,11 @@
 
 ### 📄 Research
 - 텍스트 마이닝 기반 교육인증 미션·비전·핵심 키워드 분석
-  TF-IDF 및 키워드 네트워크 기반 교육 텍스트 비교 분석
   [논문](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/textmining_education.pdf)
-- 진행 중 - 텍스트 마이닝 기반 데이터 병원 미션·비전 분석
-  TF-IDF 및 키워드 네트워크 기반 데이터 중심병원 텍스트 비교 분석
+- 진행 중: 텍스트 마이닝 기반 데이터 병원 미션·비전 분석
   [요약](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/textmining_datahospital)
-- 진행 중 - 대학생의 건강 종단데이터 구축 모델 개발 및 정책방향 연구
-  체계적 문헌고찰 기반 대학 건강 데이터 관리 모델 설계 [요약](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/student_healthdata)
+- 진행 중: 대학생의 건강 종단데이터 구축 모델 개발 및 정책방향 연구
+  [요약](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/student_healthdata)
 
 ### 📊 Projects
 - 세계행복지수 데이터를 활용한 변수 간 관계 탐색적 데이터 분석 (EDA) [코드](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/projects/world-happiness/world_happiness_EDA.ipynb) [기획서](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/projects/world-happiness/world_happiness_proposal.pdf)
@@ -25,6 +23,11 @@
 - 흩어진 환자 기록을 구조화해 의미 있는 정보로 연결하는 과정
 - 의료데이터가 표준 언어로 정리되어 하나의 흐름을 만드는 구조
 - 분석 결과가 사람의 건강과 정책에 영향을 미치는 지점
+
+## 💪 Strengths
+- 새로운 데이터 구조와 표준 체계를 빠르게 이해하고 실제 프로젝트에 적용하는 적응력
+- 분석 결과를 문서로 정리하며 논리적으로 설명하는 커뮤니케이션 역량
+- 연구·팀 프로젝트에서 역할을 분담하고 끝까지 완주하는 책임감
 
 ## Contact
 wjddustn1714@naver.com
