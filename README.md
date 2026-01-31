@@ -9,12 +9,11 @@
 
 ### 📊 Projects
 - 세계행복지수 데이터를 활용한 변수 간 관계 탐색적 데이터 분석 (EDA)
-[자료보기](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/세계행복지수(제출용).ipynb)
 - 국민건강영양조사 기반 치매 고위험군 로지스틱 회귀 분석
 - 가상의 의료보험 데이터를 활용한 보험료 예측 회귀 분석
 - 흉부 X-ray 기반 폐렴 vs 정상 이진 분류 CNN 모델 구축
 - HL7 FHIR 기반 유방암 수술 후 관리 모바일 앱 기획
-[자료보기](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/HL7%20FHIR유방암%20환자%20수술%20후%20케어.pptx)
+
 
 ## Contact
 wjddustn1714@naver.com
