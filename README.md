@@ -9,6 +9,7 @@
   [논문](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/textmining_education.pdf)
 - 진행 중: 텍스트 마이닝 기반 데이터 병원 미션·비전 분석
   [요약](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/textmining_datahospital)
+  [코드](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/textmining_datahospital_synonyms_stopwords.R)
 - 진행 중: 대학생의 건강 종단데이터 구축 모델 개발 및 정책방향 연구
   [요약](https://github.com/wjddustn1714/Jung-Yeonsu/blob/main/research/student_healthdata)
 
